@@ -1,6 +1,6 @@
 # SOFTWARE ARCHITECTURE AND DESIGN Project
 
-##Open Source Project Analysis
+## Open Source Project Analysis
 
 [Document](https://docs.google.com/document/d/1VQUSAFWKW2doh8wIQZe4aP394fesWaxxP3LEc1a18OM/edit?usp=sharing)
 
